@@ -1,0 +1,2 @@
+www.reddit.com###desktop-dynamic-upsell-dialog
+www.reddit.com##body:watch-attr(class):remove-class(rpl-scroll-lock)
